@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-		THIS IS EDITED AGAIN and AGAIN.
+		THIS IS EDITED ON THE FEATURE BRANCH.
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
